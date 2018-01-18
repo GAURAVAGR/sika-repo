@@ -5,4 +5,4 @@ A test repository
 
 
 
-From new-branch-2  
+From new-branch-2
